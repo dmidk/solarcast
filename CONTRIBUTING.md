@@ -1,23 +1,20 @@
 # Contributing to solarcast
 
-Thank you for your interest in contributing to **solarcast**! This is a collaborative project based at the Danish Meteorological Institute.
+Thank you for your interest in contributing to **solarnow**! This is a collaborative project based at the Danish Meteorological Institute.
 
 ## Getting Started
 
 1. **Fork** the repository on GitHub.
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/solarcast.git
-   cd solarcast
+   git clone https://github.com/<your-username>/solarnow.git
+   cd solarnow
    ```
 3. **Create a branch** for your changes:
    ```bash
    git checkout -b feature/your-feature-name
    ```
-4. **Install** the package in editable mode with development dependencies:
-   ```bash
-   pip install -e ".[dev]"
-   ```
+
 
 ## Development Guidelines
 
@@ -62,4 +59,4 @@ If you find a bug or have a feature request, please [open an issue](https://gith
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [Apache License 2.0](LICENSE).
+By contributing, you agree that your contributions will be licensed under the [MIT LICENSE](LICENSE).
