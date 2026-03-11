@@ -1,13 +1,13 @@
-# solarcast: solar nowcasting for Denmark
+# solarnow: solar nowcasting for Denmark
 
 Scientific development framework for solar nowcasting at the [Danish Meteorological Institute (DMI)](https://www.dmi.dk).
 
 
 ## Overview
 
-`solarcast` provides tools and models for short-range forecasting (nowcasting) of solar irradiance, supporting renewable energy integration and solar power production forecasting in Denmark and the Nordic region.
+`solarnow` provides tools and models for short-range forecasting (nowcasting) of solar irradiance, supporting renewable energy integration and solar power production forecasting in Denmark.
 
-## Features
+## Future Features
 
 - Solar irradiance nowcasting models
 - Data ingestion and preprocessing utilities
@@ -24,14 +24,14 @@ Clone the repository and install in editable mode:
 
 ```bash
 git clone https://github.com/dmidk/solarcast.git
-cd solarcast
+cd solarnow
 pip install -e .
 ```
 
 ## Usage
 
 ```python
-import solarcast
+import solarnow
 
 # Example usage will be documented here as the project develops
 ```
@@ -40,7 +40,7 @@ import solarcast
 
 ```
 solarcast/
-├── solarcast/          # Main Python package
+├── solarnow/          # Main Python package
 │   └── __init__.py
 ├── tests/              # Unit and integration tests
 ├── notebooks/          # Jupyter notebooks for exploration and demos
@@ -56,5 +56,4 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ## License
 
-This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
 
