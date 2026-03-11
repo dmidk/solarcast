@@ -59,4 +59,4 @@ If you find a bug or have a feature request, please [open an issue](https://gith
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [MIT LICENSE](LICENSE).
+By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).
